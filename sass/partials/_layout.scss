@@ -1,0 +1,22 @@
+.container{
+    width:100%;
+}
+
+.product {
+    border-radius: 15px;
+    margin-bottom: 2em;
+    border:1px solid $secondary;
+}
+
+.product {
+    border-radius: 15px 15px 15px 15px;
+    margin-top:6em;
+}
+
+footer{
+    display:flex;
+    justify-content:space-between;
+    background-color: $primary;
+    color:black;
+    margin-top: 6em;
+}
